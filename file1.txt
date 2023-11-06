@@ -1,0 +1,5 @@
+
+KEY WORDS OR COMMANDS 
+
+	1- Distributed Version control : Git directory or git software is independent on each computer it has tracking capabilities independent on any centralized system 
+

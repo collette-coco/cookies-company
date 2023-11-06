@@ -1,5 +1,5 @@
+2 - Commits : Commit are changes represents a snapshot of project files or source code ( git commit -m "change login details"
 
-KEY WORDS OR COMMANDS 
+	3- Branches ( git branch) : git gives flexibility to create branches and develop in the branch to avoid affecting the main branch or source code until you are confident that everything works well before you merge to the main branch 
 
-	1- Distributed Version control : Git directory or git software is independent on each computer it has tracking capabilities independent on any centralized system 
 
